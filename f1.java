@@ -1,3 +1,4 @@
-class f1{
- // write main method
+public class f1{
+
+
 }
