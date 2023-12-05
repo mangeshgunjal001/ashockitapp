@@ -1,4 +1,6 @@
 public class f1{
- void m2(){
-  // method 2
+// bug 102 
+void m3(){
+
+ }
 }
