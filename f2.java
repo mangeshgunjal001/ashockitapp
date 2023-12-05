@@ -10,4 +10,9 @@ void meth2(){
 
 }
 
+// Bug 104
+void meth4(){
+
+}
+
 }
