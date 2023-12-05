@@ -5,4 +5,9 @@ void m1(){
 
 }
 
+// Bug 102
+void meth2(){
+
+}
+
 }
