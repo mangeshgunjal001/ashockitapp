@@ -14,5 +14,9 @@ void meth2(){
 void meth4(){
 
 }
+// Bug 103
+void meth3(){
+
+}
 
 }
